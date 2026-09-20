@@ -78,39 +78,7 @@
   </samp>
 </p>
 
-<h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/connect-dark.svg">
-  <img src="./assets/connect-light.svg" alt="~/connect">
-</picture>
-</h3>
-
-<p>
-  <a href="https://github.com/madebyzan">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg">
-      <img src="./assets/github-light.svg" alt="GitHub — madebyzan" width="142">
-    </picture>
-  </a>
-  <a href="https://juejin.cn/user/2893570303354238">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/juejin-dark.svg">
-      <img src="./assets/juejin-light.svg" alt="Articles on Juejin" width="142">
-    </picture>
-  </a>
-  <a href="mailto:zandko@126.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/email-dark.svg">
-      <img src="./assets/email-light.svg" alt="Email — zandko@126.com" width="234">
-    </picture>
-  </a>
-</p>
-
 <br>
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/footer-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/footer-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
-  <img src="./assets/footer-light.svg" alt="Still curious. Still building. One small idea at a time." width="520">
-</picture>
+<!-- Keep this image link free of inter-tag whitespace. -->
+<p><a href="mailto:zandko@126.com"><picture><source media="(max-width: 800px) and (prefers-color-scheme: dark)" srcset="./assets/footer-mobile-dark.svg"><source media="(max-width: 800px)" srcset="./assets/footer-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg"><img src="./assets/footer-light.svg" alt="Email Zan at zandko@126.com — Still curious. Still building." width="100%"></picture></a></p>
