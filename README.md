@@ -82,3 +82,4 @@
 
 <!-- Keep this image link free of inter-tag whitespace. -->
 <p><a href="mailto:zandko@126.com"><picture><source media="(max-width: 800px) and (prefers-color-scheme: dark)" srcset="./assets/footer-mobile-dark.svg"><source media="(max-width: 800px)" srcset="./assets/footer-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg"><img src="./assets/footer-light.svg" alt="Email Zan at zandko@126.com — Still curious. Still building." width="100%"></picture></a></p>
+
