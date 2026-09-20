@@ -1,23 +1,116 @@
-<h1 align="center">Hi 👋, I'm Zan</h1>
+<!-- Upload README.md and the assets/ directory together. -->
+<!-- Contact details come from the supplied README; no mockup metrics are included. -->
 
-I am a **full-stack developer** specializing in **front-end technologies** and **software architecture**, dedicated to creating **innovative technical solutions**. I actively contribute to **open-source projects** and enjoy disseminating my expertise through **technical blogging**.
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/hero-mobile.png">
+  <img src="./assets/hero.png" alt="Hi, I'm Zan — full-stack developer. Build, explore, share. A pixel cat beside a moonlit desk." width="100%">
+</picture>
 
-<!-- <p align="left"> <img src="https://p9-passport.byteacctimg.com/img/user-avatar/81a0972c9db17249496faf36f05cfe05~180x180.awebp" alt="zandko" /> </p> -->
+<h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg">
+  <img src="./assets/about-light.svg" alt="~/about">
+</picture>
+</h3>
 
-<!-- <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=zandko" alt="zandko" /></p> -->
-
-- 📝 I regularly write articles on [https://juejin.cn/user/2893570303354238](https://juejin.cn/user/2893570303354238)
-
-- 📫 How to reach me **zandko@126.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/zan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zan-ko-543382271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zan-ko-543382271/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100091403720779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100091403720779" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc1djuiq9eyfph_oftlgt1va" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc1djuiq9eyfph_oftlgt1va" height="30" width="40" /></a>
+<p>
+  <samp>
+    I'm <strong>Zan</strong>, a full-stack developer working with <strong>TypeScript</strong>, <strong>Node.js</strong>, and the web.<br>
+    I enjoy building useful things, exploring software architecture, and sharing what I learn.
+  </samp>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+<h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <img src="./assets/stack-light.svg" alt="~/stack">
+</picture>
+</h3>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/typescript-dark.svg">
+    <img src="./assets/typescript-light.svg" alt="TypeScript" width="88">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/nodejs-dark.svg">
+    <img src="./assets/nodejs-light.svg" alt="Node.js" width="88">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/react-dark.svg">
+    <img src="./assets/react-light.svg" alt="React" width="88">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/vue-dark.svg">
+    <img src="./assets/vue-light.svg" alt="Vue" width="88">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/nextjs-dark.svg">
+    <img src="./assets/nextjs-light.svg" alt="Next.js" width="88">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tailwind-dark.svg">
+    <img src="./assets/tailwind-light.svg" alt="Tailwind" width="88">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/docker-dark.svg">
+    <img src="./assets/docker-light.svg" alt="Docker" width="88">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/git-dark.svg">
+    <img src="./assets/git-light.svg" alt="Git" width="88">
+  </picture>
+</p>
+
+<p><samp>Also in the toolbox: MySQL · Redis · MongoDB · GraphQL · Linux.</samp></p>
+
+<h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/writing-dark.svg">
+  <img src="./assets/writing-light.svg" alt="~/writing">
+</picture>
+</h3>
+
+<p>
+  <samp>
+    Notes on web development, software architecture, and things learned by doing.<br>
+    <a href="https://juejin.cn/user/2893570303354238">Read my articles on Juejin →</a>
+  </samp>
+</p>
+
+<h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/connect-dark.svg">
+  <img src="./assets/connect-light.svg" alt="~/connect">
+</picture>
+</h3>
+
+<p>
+  <a href="https://github.com/madebyzan">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg">
+      <img src="./assets/github-light.svg" alt="GitHub — madebyzan" width="142">
+    </picture>
+  </a>
+  <a href="https://juejin.cn/user/2893570303354238">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/juejin-dark.svg">
+      <img src="./assets/juejin-light.svg" alt="Articles on Juejin" width="142">
+    </picture>
+  </a>
+  <a href="mailto:zandko@126.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/email-dark.svg">
+      <img src="./assets/email-light.svg" alt="Email — zandko@126.com" width="234">
+    </picture>
+  </a>
+</p>
+
+<br>
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/footer-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/footer-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <img src="./assets/footer-light.svg" alt="Still curious. Still building. One small idea at a time." width="520">
+</picture>
